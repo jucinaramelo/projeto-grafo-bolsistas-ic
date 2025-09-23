@@ -67,10 +67,14 @@ Este projeto foi desenvolvido como **trabalho da disciplina "Algoritmos e Estrut
 
 ## 📊 Resultados
 
-- Grafo completo:  
-  - **N nós** (discentes + orientadores).  
-  - **M arestas** (relações de orientação).  
+-### 🔹 Visualização no Python (Matplotlib)  
+O grafo gerado no Python mostra os **Top 15 orientadores** e seus bolsistas, evidenciando os grupos de pesquisa em diferentes cores:  
 
-- Subgrafo com os **Top 15 orientadores**:  
-  - Mostra claramente clusters de bolsistas agrupados por orientador.  
-  - As cores destacam os diferentes grupos de pesquisa.  
+![Grafo Python](./Slides_Apresentacao/image.png)  
+
+---
+
+### 🔹 Visualização no Gephi (Layout Force Atlas)  
+A versão interativa no **Gephi** permitiu uma exploração mais rica da rede, mostrando de forma clara os clusters de bolsistas organizados por orientador:  
+
+![Grafo Gephi](./Slides_Apresentacao/grafo-gephi.png)  
