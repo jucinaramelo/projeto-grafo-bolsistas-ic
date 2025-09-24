@@ -78,3 +78,4 @@ O grafo gerado no Python mostra os **Top 15 orientadores** e seus bolsistas, evi
 A versão interativa no **Gephi** permitiu uma exploração mais rica da rede, mostrando de forma clara os clusters de bolsistas organizados por orientador:  
 
 ![Grafo Gephi](./Slides_Apresentacao/grafo-gephi.png)  
+6666666666666
