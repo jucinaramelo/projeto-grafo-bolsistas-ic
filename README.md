@@ -67,7 +67,7 @@ Este projeto foi desenvolvido como **trabalho da disciplina "Algoritmos e Estrut
 
 ## 📊 Resultados
 
--### 🔹 Visualização no Python (Matplotlib)  
+### 🔹 Visualização no Python (Matplotlib)  
 O grafo gerado no Python mostra os **Top 15 orientadores** e seus bolsistas, evidenciando os grupos de pesquisa em diferentes cores:  
 
 ![Grafo Python](./Slides_Apresentacao/image.png)  
